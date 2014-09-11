@@ -1,0 +1,25 @@
+{
+  "name": "tdd_workshop",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "karma": "~0.12.23",
+    "karma-jasmine": "~0.1.5",
+    "karma-chrome-launcher": "~0.1.4",
+    "karma-script-launcher": "~0.1.0",
+    "sinon": "~1.10.3",
+    "grunt-cli": "~0.1.13",
+    "grunt": "~0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
