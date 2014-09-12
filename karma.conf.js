@@ -25,7 +25,6 @@ module.exports = function(config) {
 
       'src/*.js',
       
-      //'http://cdnjs.cloudflare.com/ajax/libs/sinon.js/1.7.3/sinon-min.js',
       'spec/support/*.js',
       'spec/*.spec.js'
     ],
